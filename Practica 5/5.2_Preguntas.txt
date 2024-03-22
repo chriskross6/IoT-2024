@@ -1,0 +1,20 @@
+1. Que tan preciso es el sensor respecto a la temperatura que da la API?
+Relativamente cercano
+
+2. Cual es el % de variación ?
+10%
+
+3. Cual es la principal diferencia entre la práctica 5.1 y la 5.2 con la 5.3?
+En la 5.1 los valores que nos dan son dumm. En la 5.2 y 5.3, los valores vienen de la api de open weather, y también son tomados por el sensor.
+
+4. Cual plataforma cloud de IoT se te ha hecho mas amigable de las dos revisadas y porque?
+Para implementación ThingSpeak, pero en la teoría en más fácil de aplicar Ubidots.
+
+5. En tus propias palabras como explicarías para que sirve la plataforma cloud de IoT y porque se llama de IoT y no simplemente plataforma cloud?
+Porque esta enfocado a crear dispostivos, los cuales se conectan a sensores físicos por medio de la ESP u otras tarjetas.
+
+6. Revisa el código y contesta cuales son las líneas de código que escriben el status ?
+
+
+7. Exportar a cvs los datos y anexarlos a su entrega, pueden dejar el Excel en github también en algún folder de resultados de esta práctica
+
